@@ -2,7 +2,7 @@
     "name": "thecodeholicsarah/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "thecodeholicsarah\\phpmvc": "./"
+            "thecodeholicsarah\\phpmvc\\": "./"
         }
     },
     "authors": [
