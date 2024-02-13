@@ -1,7 +1,7 @@
 <?php
 
-namespace app\core\db;
-use app\core\Application;
+namespace thecodeholicsarah\phpmvc\db;
+use thecodeholicsarah\phpmvc\Application;
 
 
 class Database

@@ -1,10 +1,10 @@
 <?php 
 
-namespace app\core;
-use app\core\Controller;
-use app\core\db\Database;
-use app\core\db\DbModel;
-use app\core\View;
+namespace thecodeholicsarah\phpmvc;
+use thecodeholicsarah\phpmvc\Controller;
+use thecodeholicsarah\phpmvc\db\Database;
+use thecodeholicsarah\phpmvc\db\DbModel;
+use thecodeholicsarah\phpmvc\View;
 
 class Application 
 {

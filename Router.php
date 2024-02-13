@@ -1,8 +1,8 @@
 <?php 
 
-namespace app\core;
-use app\core\Application;
-use app\core\exception\NotFoundException;
+namespace thecodeholicsarah\phpmvc;
+use thecodeholicsarah\phpmvc\Application;
+use thecodeholicsarah\phpmvc\exception\NotFoundException;
 
 
 

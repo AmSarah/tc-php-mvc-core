@@ -1,7 +1,7 @@
 <?php 
 
-namespace app\core;
-use app\core\db\DbModel;
+namespace thecodeholicsarah\phpmvc;
+use thecodeholicsarah\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

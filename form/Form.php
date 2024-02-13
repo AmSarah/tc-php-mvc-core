@@ -1,8 +1,8 @@
 <?php 
 
-namespace app\core\form;
-use app\core\Model;
-use app\core\form\Field;
+namespace thecodeholicsarah\phpmvc\form;
+use thecodeholicsarah\phpmvc\Model;
+use thecodeholicsarah\phpmvc\form\Field;
 
 
 class Form

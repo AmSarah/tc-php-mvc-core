@@ -1,7 +1,7 @@
 <?php
-namespace app\core;
-use app\core\Application;
-use app\core\middlewares\BaseMiddleware;
+namespace thecodeholicsarah\phpmvc;
+use thecodeholicsarah\phpmvc\Application;
+use thecodeholicsarah\phpmvc\middlewares\BaseMiddleware;
 
 
 

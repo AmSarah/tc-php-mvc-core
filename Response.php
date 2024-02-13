@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace thecodeholicsarah\phpmvc;
 
 class Response 
 {

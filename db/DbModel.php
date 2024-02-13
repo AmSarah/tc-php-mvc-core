@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\db;
-use app\core\Model;
-use app\core\Application;
+namespace thecodeholicsarah\phpmvc\db;
+use thecodeholicsarah\phpmvc\Model;
+use thecodeholicsarah\phpmvc\Application;
 
 abstract class DbModel extends Model
 {
